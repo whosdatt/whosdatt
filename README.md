@@ -5,11 +5,22 @@
 ### 🙇‍♀️: About me:
 I'm a junior Data Analyst.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> 
 I almost finished my courses of "Data Analyst" in Yandex Practicum, so i started looking for a job!
+
 I would love to work in IT company or some Start Up!
+
 I like to read books about critical thinking and how our brain works🧠
 
 
 :mailbox: Connect with me: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/whossdat) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:rezeda.prikk@gmail.com)
+
+---
+### 🤳 Social media:
+
+<div id="badges">
+<a href="https://t.me/whossdat" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+</a>
+</div>
 
 ---
 
