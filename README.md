@@ -6,7 +6,7 @@
 I'm a junior Data Analyst.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> 
 I almost finished my courses of "Data Analyst" in Yandex Practicum, so i started looking for a job!
 
-I would love to work in IT company or some Start Up!
+I would love to work in IT company or some Start Up! Especially i'm interesting in product analysis.
 
 I like to read books about critical thinking and how our brain works🧠
 
