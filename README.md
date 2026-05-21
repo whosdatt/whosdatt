@@ -9,7 +9,7 @@ I'm working at advertising agency
 I like to read books about critical thinking and how our brain works🧠
 
 
-:mailbox: Connect with me: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/whossdat) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:rezeda.prikk@gmail.com)
+:mailbox: Connect with me: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/whossdat) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:prikashikovar@yandex.ru)
 
 ---
 ### 🤳 Social media:
