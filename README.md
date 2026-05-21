@@ -4,7 +4,7 @@
 
 ### 🙇‍♀️: About me:
 I'm a Data Analyst.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> 
-I'm working at advertising agency
+I'm working in an advertising agency
 
 I like to read books about critical thinking and how our brain works🧠
 
