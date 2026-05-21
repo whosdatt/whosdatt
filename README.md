@@ -3,10 +3,8 @@
 ---
 
 ### 🙇‍♀️: About me:
-I'm a junior Data Analyst.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> 
-I finished my courses of "Data Analyst" in Yandex Practicum, so i'm looking for a job!
-
-I would love to work in IT company or some Start Up! Especially i'm interesting in product analysis.
+I'm a Data Analyst.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> 
+I'm working at advertising agency
 
 I like to read books about critical thinking and how our brain works🧠
 
